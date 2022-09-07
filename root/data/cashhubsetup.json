@@ -1,0 +1,133 @@
+{
+    "General Settings": {
+        "PCPH": {
+            "UnID": "1",
+            "PCPH Serial Number": "PCPH10001",
+            "PCPH Model": "PCPH-10.0",
+            "PCPH Owner": {
+                "firstName": "David",
+                "lastName": "Lloyd",
+                "addressID": "Canada\/British Columbia 2605 17 ave SW",
+                "phone": "84034378856",
+                "email": "finance@goelectricyyc.com"
+            },
+            "PCPH Location": "90 Gough Rd #2, Markham, ON L3R 5V5",
+            "PCPH Mac Address": "de:60:76:48:92:f3",
+            "PCPH Master Password": "5734986518",
+            "Activation Date": "2020-09-31"
+        }
+    },
+    "PowerLines": [
+        {
+            "PowerLineID": "1",
+            "PowerLineName": "West Tower",
+            "MaxAmp": "25022"
+        }
+    ],
+    "Nodes": {
+        "RegisteredNodes": [],
+        "NodesManagement": [
+            "View Registered Nodes",
+            "Activate Node",
+            "Deactivate Node",
+            "Add Node",
+            "Remove Node"
+        ],
+        "PowerManagement": [
+            [
+                "Assign weight to the Node",
+                "Assign Min to the Node",
+                "Assign Max to the Node",
+                "Assign Node Priority"
+            ]
+        ]
+    },
+    "RegisteredCustomers": [
+        {
+            "customerID": "1",
+            "chargerNodeID": "",
+            "parkingSlotID": "22",
+            "addressID": "2",
+            "userName": "op",
+            "firstName": "",
+            "lastName": "",
+            "phone": "345",
+            "email": "w'pfodj",
+            "rfIDCard": "",
+            "pin": "34",
+            "password": "eee",
+            "tempChargerNode": "",
+            "status": "on"
+        }
+    ],
+    "Customers": {
+        "CustomersManagement": [
+            "View customers",
+            "Change PIN",
+            "Activate customer",
+            "Deactivate customer",
+            "Edit customer",
+            "Add customer",
+            "Remove customer"
+        ],
+        "Register RFID Card @PCPH": [
+            "Prepare RFID Card Registration",
+            "Activate card @PCPH"
+        ]
+    },
+    "Schedule": {
+        "PricingSchedule": {
+            "Monday": {
+                "Public": [],
+                "Private": [],
+                "Mixed": []
+            },
+            "Tuesday": {
+                "Public": [],
+                "Private": [],
+                "Mixed": []
+            },
+            "Wednesday": {
+                "Public": [],
+                "Private": [],
+                "Mixed": []
+            },
+            "Thursday": {
+                "Public": [],
+                "Private": [],
+                "Mixed": []
+            },
+            "Friday": {
+                "Public": [],
+                "Private": [],
+                "Mixed": []
+            },
+            "Saturday": {
+                "Public": [],
+                "Private": [],
+                "Mixed": []
+            },
+            "Sunday": {
+                "Public": [],
+                "Private": [],
+                "Mixed": []
+            }
+        }
+    },
+    "Reports": [
+        "Energy consumption",
+        "Spent $$",
+        "Bill\/Invoice -> email\/snail mail"
+    ],
+    "Backup\/Restore": [
+        "OTA Update Service",
+        "Backup",
+        "Restore",
+        "Factory reset"
+    ],
+    "GUI Config": [
+        "Page Dimension - Data\/customer\/Node",
+        "Flow control",
+        "Graphical Drug\/Drop Service"
+    ]
+}

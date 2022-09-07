@@ -1,0 +1,9 @@
+{
+	"MENU":{
+		"Settings":{
+					"PowerLines":"/page/power_lines.php",
+					"Node":"/page/node.php",
+					"Registered Customers":"/page/customers.php"
+		}
+	}
+}

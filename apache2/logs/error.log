@@ -1,0 +1,10 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/projectsPHP/grizzzSA\\php\\ext\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 18 15:33:55.840968 2021] [mpm_winnt:notice] [pid 5712:tid 716] AH00455: Apache/2.4.29 (Win32) PHP/7.1.11 configured -- resuming normal operations
+[Wed Aug 18 15:33:55.840968 2021] [mpm_winnt:notice] [pid 5712:tid 716] AH00456: Server built: Nov  3 2017 01:01:54
+[Wed Aug 18 15:33:55.840968 2021] [core:notice] [pid 5712:tid 716] AH00094: Command line: 'C:\\projectsPHP\\grizzzSA/apache2/bin/httpd_usbwv8.exe -d C:/projectsPHP/grizzzSA/apache2'
+[Wed Aug 18 15:33:55.844026 2021] [mpm_winnt:notice] [pid 5712:tid 716] AH00418: Parent: Created child process 5812
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/projectsPHP/grizzzSA\\php\\ext\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 18 15:33:56.253581 2021] [mpm_winnt:notice] [pid 5812:tid 728] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 18 15:34:31.553971 2021] [php7:notice] [pid 5812:tid 1244] [client ::1:60562] PHP Notice:  Undefined variable: class in C:\\projectsPHP\\grizzzSA\\root\\template-view\\node.php on line 124, referer: http://localhost/
+[Wed Aug 18 15:41:08.153164 2021] [php7:notice] [pid 5812:tid 1244] [client ::1:56728] PHP Notice:  Undefined offset: -1 in C:\\projectsPHP\\grizzzSA\\root\\template-control\\add_customer.php on line 43, referer: http://localhost/page/customers.php
+[Wed Aug 18 15:41:08.153164 2021] [php7:notice] [pid 5812:tid 1244] [client ::1:56728] PHP Notice:  Trying to get property of non-object in C:\\projectsPHP\\grizzzSA\\root\\template-control\\add_customer.php on line 43, referer: http://localhost/page/customers.php
